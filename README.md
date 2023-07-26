@@ -11,7 +11,7 @@ Go onto Github, find the project and clone the repository.
 Afterwards, open bash, locate the destinated file with 'cd', and use git clone on the cloned repository.
 
 ```bash
-git clone https://github.com/aaziz1234/Audio-Hate-Speech-Detector.git
+git clone https://github.com/aanassor1/Audio-Hate-Speech-Detector.git
 ```
 
 Once the repository is installed, simnply open up the main.py file (located in /Hate_Speech_Detector_Model/) in any IDE, and run it. Then follow the instructions as shown on the console.

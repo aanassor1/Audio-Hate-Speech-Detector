@@ -1,4 +1,4 @@
-# GitLab repository for Audio Hate Speech Detector (Dissertation project)
+# Audio Hate Speech Detector (Dissertation project)
 
 ## Author
 Abdul-Aziz Nassor

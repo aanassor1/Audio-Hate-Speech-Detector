@@ -6,6 +6,11 @@ Abdul-Aziz Nassor
 ### Description
 For my dissertation project in my 3rd year of university, I decided to do research and create an Audio Hate Speech Detector (that uses artificial intelligence). This contains a model that can detect hate speech in audio. It also contains additional code that I used to train my models. 
 
+### What I learnt
+* Python
+* Machine Learning methodologies
+* Writing to and reading files
+  
 ### Installation
 Go onto Github, find the project and clone the repository.
 Afterwards, open bash, locate the destinated file with 'cd', and use git clone on the cloned repository.
